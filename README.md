@@ -16,6 +16,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -28,4 +29,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
