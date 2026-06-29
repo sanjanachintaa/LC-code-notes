@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
