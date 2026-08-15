@@ -113,4 +113,8 @@
 | [0199-binary-tree-right-side-view](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sanjanachintaa/LC-code-notes/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sanjanachintaa/LC-code-notes/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
